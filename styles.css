@@ -97,14 +97,18 @@ p{
 }
 
  .inicio-fondo {
-    width: 100% 800px;
+    width: 100% 900px;
     position: relative;
     height: 900px;
     background-image: url('imagenes/inicio/pexels-lukas-574071.jpg');
     background-size: cover;
     background-position: center;
     z-index: 0;
-  }
+    margin: 20px 0;
+   
+
+ }
+
 
   #capa-oscura {
     position: absolute;
